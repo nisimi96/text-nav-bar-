@@ -86,6 +86,11 @@ a {
     height: 32px;
 }
 
+.nav-burger {
+    opacity: 1;
+}
+
+
 .nav-burger,
 .nav-close {
     position: absolute;
