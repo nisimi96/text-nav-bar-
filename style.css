@@ -113,6 +113,10 @@ a {
 /*brake point 1018px*/
 
 @media  screen and (max-width: 1079px) {
+
+    .nav-toggle {
+        display: block;
+    } 
     
     .nav-menu {
         position: absolute;
